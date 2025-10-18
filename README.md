@@ -88,3 +88,5 @@ Depending on the filler preferences, the notification webhook can POST orders wi
    filler?: string,
 }
 ```
+
+<!-- Auto-update: 2025-10-18T11:25:27.830613 -->
